@@ -1,13 +1,9 @@
-<table style="border: none;">
-  <tr>
-    <td style="border: none; vertical-align: middle;">
-      <img src="./devhub24-80.png" alt="Bitrix24 Developer Hub" width="80" />
-    </td>
-    <td style="border: none; vertical-align: middle; padding-left: 16px;">
-      <h1 style="margin: 0; font-size: 2em;">Bitrix24 Developer Tools Hub</h1>
-    </td>
-  </tr>
-</table>
+<div align="left">
+  <img src="./devhub24-80.png" alt="Bitrix24 Developer Hub" width="80" style="display:inline-block; vertical-align:middle;"/>
+  <span style="display:inline-block; font-size:2em; font-weight:bold; margin-left: 12px; vertical-align:middle;">
+    Bitrix24 Developer Tools Hub
+  </span>
+</div>
 
 Welcome to the central hub for Bitrix24 developer tools. This repository offers a curated collection of official SDKs, UI kits, examples, and application templates to streamline your development process with the Bitrix24 platform.
 
