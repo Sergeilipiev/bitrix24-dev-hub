@@ -1,8 +1,10 @@
-<table>
+<table style="border: none;">
   <tr>
-    <td><img src="./devhub24-80.png" alt="Bitrix24 Developer Hub" width="80"/></td>
-    <td>
-      <h1 style="margin-left: 16px; font-size: 2em;">Bitrix24 Developer Tools Hub</h1>
+    <td style="border: none; vertical-align: middle;">
+      <img src="./devhub24-80.png" alt="Bitrix24 Developer Hub" width="80" />
+    </td>
+    <td style="border: none; vertical-align: middle; padding-left: 16px;">
+      <h1 style="margin: 0; font-size: 2em;">Bitrix24 Developer Tools Hub</h1>
     </td>
   </tr>
 </table>
