@@ -6,7 +6,7 @@ Welcome to the central hub for Bitrix24 developer tools. This repository offers 
 
 - [SDKs and Libraries](#sdks-and-libraries)
   - [PHP SDK](#php-sdk)
-  - [JavaScript/Node.js SDK](#javascript-sdk)
+  - [JavaScript/Node.js SDK](#javascriptnodejs-sdk)
 - [UI Tools](#ui-tools)
   - [Bitrix24 UI Kit](#bitrix24-ui-kit)
   - [Design Tokens](#design-tokens)
