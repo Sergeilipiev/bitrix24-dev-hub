@@ -10,7 +10,7 @@ Welcome to the central hub for Bitrix24 developer tools. This repository offers 
 - [UI Tools](#ui-tools)
   - [Bitrix24 UI Kit](#bitrix24-ui-kit)
   - [Design Tokens](#design-tokens)
-  - [Icons](#design-icons)
+  - [Icons](#icons)
 - [Usage Examples](#usage-examples)
 - [Application Templates](#application-templates)
 - [Documentation](#documentation)
