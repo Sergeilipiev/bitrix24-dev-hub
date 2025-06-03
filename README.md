@@ -13,6 +13,7 @@ Welcome to the central hub for Bitrix24 developer tools. This repository offers 
   - [Icons](#icons)
 - [Usage Examples](#usage-examples)
 - [Application Templates](#application-templates)
+  - [Automation rules library](#automation-rules-library)
 - [Documentation](#documentation)
 
 ## SDKs and Libraries
@@ -57,9 +58,13 @@ Welcome to the central hub for Bitrix24 developer tools. This repository offers 
 
 ## Application Templates
 
-- Ready-to-use application templates that can be deployed quickly using Docker. These templates provide a foundation for building custom business logic on top of Bitrix24.
+Ready-to-use application templates that can be deployed quickly using Docker. These templates provide a foundation for building custom business logic on top of Bitrix24.
 
-  It's a private repo yet, so be tuned!
+### Automation rules library
+
+[This project](https://github.com/bitrix24/app-template-automation-rules) is a fully deployable application template featuring a library of Bitrix24 automation rules. It’s designed to work both as a local solution and as a scalable application for the Bitrix24 Marketplace.
+
+You’re getting a complete package here: the frontend is built with the UI Kit and B24JsSDK, while the backend is set up so you can simply add your own automation rule implementations without having to dig into architectural complexities. No need to reinvent the wheel — just take the foundation and customize it to fit your needs. 
 
 ## Documentation
 
