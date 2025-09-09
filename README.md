@@ -7,6 +7,7 @@ Welcome to the central hub for Bitrix24 developer tools. This repository offers 
 - [SDKs and Libraries](#sdks-and-libraries)
   - [PHP SDK](#php-sdk)
   - [JavaScript/Node.js SDK](#javascriptnodejs-sdk)
+  - [Python SDK](#python-sdk)
 - [UI Tools](#ui-tools)
   - [Bitrix24 UI Kit](#bitrix24-ui-kit)
   - [Design Tokens](#design-tokens)
@@ -30,6 +31,12 @@ Welcome to the central hub for Bitrix24 developer tools. This repository offers 
 
   [GitHub Repository](https://github.com/bitrix24/b24jssdk). Find more details in the [documentation](https://bitrix24.github.io/b24jssdk/)
 
+### Python SDK
+
+- **b24pydk**: The official Python library for interacting with the Bitrix24 REST API (beta version). It supports both OAuth tokens and incoming webhooks, with features like automatic token renewal and batch calls.
+
+  [GitHub Repository](https://github.com/bitrix24/b24pysdk). 
+  
 ## UI Tools
 
 ### Bitrix24 UI Kit
